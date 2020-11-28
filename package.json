@@ -1,5 +1,5 @@
 {
-  "name": "cropper",
+  "name": "kardi/cropper",
   "description": "A simple jQuery image cropping plugin.",
   "version": "4.1.0",
   "main": "dist/cropper.common.js",
