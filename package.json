@@ -1,5 +1,5 @@
 {
-  "name": "kardi/cropper",
+  "name": "cropper",
   "description": "A simple jQuery image cropping plugin.",
   "version": "4.1.0",
   "main": "dist/cropper.common.js",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fengyuanchen/cropper.git"
+    "url": "git+https://github.com/kardi31/cropper.git"
   },
   "keywords": [
     "image",

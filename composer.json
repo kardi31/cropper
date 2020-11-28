@@ -1,10 +1,10 @@
 {
-  "name": "fengyuanchen/cropper",
+  "name": "kardi/cropper",
   "license": "MIT",
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/fengyuanchen/cropper"
+      "url": "https://github.com/kardi/cropper"
     }
   ]
 }
